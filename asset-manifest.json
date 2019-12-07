@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/peili-build/static/css/main.34de6062.chunk.css",
-    "main.js": "/peili-build/static/js/main.053a2e0f.chunk.js",
-    "main.js.map": "/peili-build/static/js/main.053a2e0f.chunk.js.map",
-    "runtime-main.js": "/peili-build/static/js/runtime-main.184bf018.js",
-    "runtime-main.js.map": "/peili-build/static/js/runtime-main.184bf018.js.map",
-    "static/css/2.e8bb5ff5.chunk.css": "/peili-build/static/css/2.e8bb5ff5.chunk.css",
-    "static/js/2.034decab.chunk.js": "/peili-build/static/js/2.034decab.chunk.js",
-    "static/js/2.034decab.chunk.js.map": "/peili-build/static/js/2.034decab.chunk.js.map",
-    "index.html": "/peili-build/index.html",
-    "precache-manifest.067a77d9984edb5031efd9aecc8ebba7.js": "/peili-build/precache-manifest.067a77d9984edb5031efd9aecc8ebba7.js",
-    "service-worker.js": "/peili-build/service-worker.js",
-    "static/css/2.e8bb5ff5.chunk.css.map": "/peili-build/static/css/2.e8bb5ff5.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/peili-build/static/css/main.34de6062.chunk.css.map",
-    "static/media/index.css": "/peili-build/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "/static/css/main.34de6062.chunk.css",
+    "main.js": "/static/js/main.b8a82437.chunk.js",
+    "main.js.map": "/static/js/main.b8a82437.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8df3965a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8df3965a.js.map",
+    "static/css/2.8271af8e.chunk.css": "/static/css/2.8271af8e.chunk.css",
+    "static/js/2.034decab.chunk.js": "/static/js/2.034decab.chunk.js",
+    "static/js/2.034decab.chunk.js.map": "/static/js/2.034decab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.39695eb4c213339f97363b44b878de3e.js": "/precache-manifest.39695eb4c213339f97363b44b878de3e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8271af8e.chunk.css.map": "/static/css/2.8271af8e.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.184bf018.js",
-    "static/css/2.e8bb5ff5.chunk.css",
+    "static/js/runtime-main.8df3965a.js",
+    "static/css/2.8271af8e.chunk.css",
     "static/js/2.034decab.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.053a2e0f.chunk.js"
+    "static/js/main.b8a82437.chunk.js"
   ]
 }
