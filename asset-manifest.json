@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "munkkeli.io/peili-build/static/css/main.34de6062.chunk.css",
-    "main.js": "munkkeli.io/peili-build/static/js/main.2ee42f21.chunk.js",
-    "main.js.map": "munkkeli.io/peili-build/static/js/main.2ee42f21.chunk.js.map",
-    "runtime-main.js": "munkkeli.io/peili-build/static/js/runtime-main.4377e3cd.js",
-    "runtime-main.js.map": "munkkeli.io/peili-build/static/js/runtime-main.4377e3cd.js.map",
-    "static/css/2.d9e5550e.chunk.css": "munkkeli.io/peili-build/static/css/2.d9e5550e.chunk.css",
-    "static/js/2.034decab.chunk.js": "munkkeli.io/peili-build/static/js/2.034decab.chunk.js",
-    "static/js/2.034decab.chunk.js.map": "munkkeli.io/peili-build/static/js/2.034decab.chunk.js.map",
-    "index.html": "munkkeli.io/peili-build/index.html",
-    "precache-manifest.ebb0e70ac11f56ec37bbc39e442d3f20.js": "munkkeli.io/peili-build/precache-manifest.ebb0e70ac11f56ec37bbc39e442d3f20.js",
-    "service-worker.js": "munkkeli.io/peili-build/service-worker.js",
-    "static/css/2.d9e5550e.chunk.css.map": "munkkeli.io/peili-build/static/css/2.d9e5550e.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "munkkeli.io/peili-build/static/css/main.34de6062.chunk.css.map",
-    "static/media/index.css": "munkkeli.io/peili-build/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "/peili-build/static/css/main.34de6062.chunk.css",
+    "main.js": "/peili-build/static/js/main.053a2e0f.chunk.js",
+    "main.js.map": "/peili-build/static/js/main.053a2e0f.chunk.js.map",
+    "runtime-main.js": "/peili-build/static/js/runtime-main.184bf018.js",
+    "runtime-main.js.map": "/peili-build/static/js/runtime-main.184bf018.js.map",
+    "static/css/2.e8bb5ff5.chunk.css": "/peili-build/static/css/2.e8bb5ff5.chunk.css",
+    "static/js/2.034decab.chunk.js": "/peili-build/static/js/2.034decab.chunk.js",
+    "static/js/2.034decab.chunk.js.map": "/peili-build/static/js/2.034decab.chunk.js.map",
+    "index.html": "/peili-build/index.html",
+    "precache-manifest.067a77d9984edb5031efd9aecc8ebba7.js": "/peili-build/precache-manifest.067a77d9984edb5031efd9aecc8ebba7.js",
+    "service-worker.js": "/peili-build/service-worker.js",
+    "static/css/2.e8bb5ff5.chunk.css.map": "/peili-build/static/css/2.e8bb5ff5.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/peili-build/static/css/main.34de6062.chunk.css.map",
+    "static/media/index.css": "/peili-build/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.4377e3cd.js",
-    "static/css/2.d9e5550e.chunk.css",
+    "static/js/runtime-main.184bf018.js",
+    "static/css/2.e8bb5ff5.chunk.css",
     "static/js/2.034decab.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.2ee42f21.chunk.js"
+    "static/js/main.053a2e0f.chunk.js"
   ]
 }
